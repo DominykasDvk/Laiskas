@@ -1,0 +1,66 @@
+body{
+  background-image: url("./images/bg1");
+  background-color: #cccccc;
+}
+.letter{
+  position: relative;
+  width: 800px;
+  height: 1060px;
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.76);
+}
+.abackground{
+  position: relative;
+  width: 800px;
+}
+.bbackground{
+  position: relative;
+  width: 800px;
+  margin-top: -27%;
+}
+.logo{
+  position: absolute;
+  top: 50px;
+  left: 70px;
+  z-index: 1;
+}
+.contats img{
+  height: 25px;
+  position: relative;
+  top: 5px;
+  padding-left: 10px;
+}
+.contats{
+  position: absolute;
+  right: 50px;
+  top: 80px;
+  list-style-type: none;
+  text-align: right;
+}
+.signature{
+  font-family: 'Great Vibes', cursive;
+  font-size: 40px;
+    padding-left: 5%;
+}
+.skirtukas{
+  border: 2px solid #0099cc;
+  background-color: #0099cc;
+  width: 50%;
+}
+.Head{
+  padding: 30px;
+  margin-top: -10%;
+}
+.Head p{
+  text-align: justify;
+}
+.Head h1{
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 30px;
+}
+span{
+  color: #0099cc;
+}
