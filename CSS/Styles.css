@@ -1,9 +1,9 @@
 body{
-  background-image: url("./images/bg1");
-  background-color: #cccccc;
+  background-image: url("../images/bg1.png");
 }
 .letter{
   position: relative;
+  background-color: white;
   width: 800px;
   height: 1060px;
   margin: auto;
@@ -18,7 +18,7 @@ body{
 .bbackground{
   position: relative;
   width: 800px;
-  margin-top: -27%;
+  margin-top: -26.6%;
 }
 .logo{
   position: absolute;
